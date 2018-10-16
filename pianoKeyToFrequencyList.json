@@ -1,8 +1,8 @@
 {
-  headers: [
+  "headers": [
     "Key Number",	"Helmholtz Name",	"Scientific Name",	"Frequency (Hz)"
   ],
-  items: [
+  "items": [
     [
         "108",
         "b′′′′′",

@@ -1,6 +1,10 @@
 {
   "headers": [
-    "Key Number",	"Helmholtz Name",	"Scientific Name",	"Frequency (Hz)"
+    "Key Number",	
+    "Helmholtz Name",	
+    "Scientific Name",	
+    "Frequency (Hz)",
+    "Violin",	"Viola",	"Cello",	"Bass",	"Guitar"
   ],
   "items": [
     [

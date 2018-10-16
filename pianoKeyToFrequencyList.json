@@ -4,7 +4,11 @@
     "Helmholtz Name",	
     "Scientific Name",	
     "Frequency (Hz)",
-    "Violin",	"Viola",	"Cello",	"Bass",	"Guitar"
+    "Violin",	
+    "Viola",	
+    "Cello",	
+    "Bass",	
+    "Guitar"
   ],
   "items": [
     [
